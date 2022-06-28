@@ -1,3 +1,8 @@
 hello world
 
+<<<<<<< HEAD
 No more clear case
+=======
+Git is easy
+and Git is fun
+>>>>>>> story
